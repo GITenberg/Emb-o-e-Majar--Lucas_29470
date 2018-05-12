@@ -14,6 +14,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29470#Emb-o-e-Majar--Lucas
 gutenberg_issued: '2009-07-20'
 gutenberg_type: Text
 identifiers:
