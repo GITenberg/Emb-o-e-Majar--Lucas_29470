@@ -1,0 +1,29 @@
+_repo: Emb-o-e-Majar--Lucas_29470
+_version: 0.1.0
+alternative_title: Bible. N.T. Luke. Romany
+contributor:
+  translator:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2009-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29470'
+language: rmr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romani language -- Texts'
+- !lcc 'BS'
+title: Embéo e Majaró Lucas
+url: http://www.gutenberg.org/ebooks/29470
